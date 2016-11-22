@@ -1,0 +1,35 @@
+body {
+	background-color: green;
+	background: gradient(to bottom right, blue, green);
+}
+
+h1 {
+	background-color: white;
+	position: relative;
+}
+.searchArtist {
+	text-align: center;
+	background-color: green;
+	position: relative;
+}
+
+.new{
+	float:right;
+	display: block;
+}
+
+.spotify {
+	height: 200px;
+	width: 500px;
+	display: block;
+  margin: 30px auto;
+}
+
+img {
+	height: 350px;
+	width: 500px;
+	display: block;
+  margin: 30px auto;
+    
+}
+
